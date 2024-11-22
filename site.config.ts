@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Responsive Web Design NoteBook',
-  domain: 'wed201c.eheh',
+  domain: 'wed201c.vercel.app',
   author: 'hygef-v4',
 
   // open graph metadata (optional)
