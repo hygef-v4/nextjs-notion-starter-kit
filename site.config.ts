@@ -10,16 +10,16 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Responsive Web Design NoteBook',
-  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
+  domain: 'wed201c.eheh',
   author: 'hygef-v4',
 
   // open graph metadata (optional)
   description: 'Note tổng hợp kiến thức Wed201c <3',
 
   // social usernames (optional)
-  twitter: 'transitive_bs',
-  github: 'transitive-bullshit',
-  linkedin: 'fisch2',
+  twitter: '',
+  github: 'https://github.com/hygef-v4',
+  linkedin: '',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
